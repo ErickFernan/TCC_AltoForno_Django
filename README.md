@@ -52,6 +52,8 @@ A solução conta com um **módulo web** desenvolvido em Django, que oferece:
 
 ## 📊 Funcionalidades
 
+![GIF da Simulação e Dashboard em Ação](https://github.com/ErickFernan/TCC_AltoForno_Django/blob/main/499b4392-216b-44f5-b26f-550e0d0e2e33.gif)
+
 - Rotas REST para CRUD de operações e dados do alto-forno.
 - Páginas HTML/JS para visualização e análise de dados em tempo real.
 - Comunicação via WebSocket para atualização instantânea.
